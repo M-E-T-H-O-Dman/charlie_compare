@@ -4,7 +4,7 @@ module COMPARE_COORDS
 	 
 	R = 6367.45  # radius of the Earth, in kilometers
 
-	def deg2rad(lat, long) # converts degrees to radians
+	def deg2rad(lat, lon) # converts degrees to radians
 	  [lat * PI / 180, lon * PI / 180]
 	end
 	 
