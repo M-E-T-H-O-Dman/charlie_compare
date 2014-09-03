@@ -1,4 +1,4 @@
-module compare_coords
+module COMPARE_COORDS
 
 	include Math
 	 
